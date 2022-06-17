@@ -1,1 +1,1 @@
-# carAIbou for the ai4goodlab 2022
+# carAIbou (ai4goodlab 2022)
